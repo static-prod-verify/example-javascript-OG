@@ -1,4 +1,0 @@
-actions:
-  veracode_static_scan:
-    build:
-      runs_on: windows-latest
